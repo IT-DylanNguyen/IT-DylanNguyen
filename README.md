@@ -11,9 +11,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ---
 
-## 🚨 Threat Hunting and Security Operations (IN PROGRESS)
+## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/IT-DylanNguyen/threat-hunting-scenario-tor)**
 
 ---
 
