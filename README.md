@@ -7,6 +7,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/IT-DylanNguyen/Vulnerability-Management-Program)**
+  
+  Simulated the full lifecycle of a vulnerability management program—from drafting policy and gaining stakeholder buy-in to conducting authenticated scans, implementing scripted remediations, and transitioning to long-term maintenance and continuous monitoring.
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
 
 ---
@@ -14,7 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/IT-DylanNguyen/threat-hunting-scenario-tor)**
-
+  
+  Simulated a threat hunting scenario using Microsoft Defender for Endpoint and KQL to detect unauthorized Tor Browser usage on a Windows 10 VM, confirming installation, execution, and network activity to Tor nodes.
+  
 ---
 
 ## 🔎 Security Monitoring
